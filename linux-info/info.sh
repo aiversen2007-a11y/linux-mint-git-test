@@ -6,3 +6,8 @@ echo "Hostname: $(hostname)"
 echo "IP-adresse:"
 hostname -I
 echo "Dato: $(date)"
+echo "Diskplads:"
+df -h /
+echo "RAM:"
+free -h
+
