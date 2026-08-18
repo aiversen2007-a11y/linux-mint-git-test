@@ -1,1 +1,2 @@
 Hello from Linux Mint!
+I am learning Git !
