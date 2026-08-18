@@ -17,4 +17,5 @@ echo "Internet virker!"
 else 
 echo "ingen internetforbindelse!"
 fi
-
+echo "CPU:"
+lscpu | grep "Model name"
